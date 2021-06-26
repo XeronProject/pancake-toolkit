@@ -3,9 +3,9 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [0.32.3](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.32.2...@pancakeswap/uikit@0.32.3) (2021-05-11)
+## [0.32.3](https://github.com/Xeronproject/xeron-toolkit/tree/master/packages/xeron-uikit/compare/@Xeronproject/uikit@0.32.2...@Xeronproject/uikit@0.32.3) (2021-05-11)
 
-**Note:** Version bump only for package @pancakeswap/uikit
+**Note:** Version bump only for package @Xeronproject/uikit
 
 
 
